@@ -1,0 +1,167 @@
+body {
+
+  margin: 0;
+
+  font-family: Arial, sans-serif;
+
+  background: #f0f7f2;
+
+}
+
+
+
+.container {
+
+  min-height: 100vh;
+
+  text-align: center;
+
+  padding: 40px;
+
+}
+
+
+
+h1 {
+
+  font-size: 48px;
+
+  color: #1b7f3a;
+
+}
+
+
+
+.subtitle {
+
+  font-size: 20px;
+
+  color: #555;
+
+}
+
+
+
+.search {
+
+  margin-top: 40px;
+
+}
+
+
+
+input {
+
+  width: 300px;
+
+  padding: 15px;
+
+  font-size: 18px;
+
+  border-radius: 10px;
+
+  border: 1px solid #aaa;
+
+}
+
+
+
+button {
+
+  margin-left: 10px;
+
+  padding: 15px 30px;
+
+  font-size: 18px;
+
+  border-radius: 10px;
+
+  border: none;
+
+  background: #1b7f3a;
+
+  color: white;
+
+  cursor: pointer;
+
+}
+
+
+
+button:hover {
+
+  background: #145c2a;
+
+}
+
+
+
+.card {
+
+  margin: 40px auto;
+
+  width: 600px;
+
+  background: white;
+
+  padding: 30px;
+
+  border-radius: 20px;
+
+  box-shadow: 0px 5px 25px rgba(0,0,0,0.15);
+
+}
+
+
+
+.card h2 {
+
+  color: #1b7f3a;
+
+}
+
+
+
+.scores {
+
+  display: flex;
+
+  justify-content: space-around;
+
+  margin: 30px;
+
+}
+
+
+
+.scores div {
+
+  background: #e8f5e9;
+
+  padding: 20px;
+
+  border-radius: 15px;
+
+  width: 180px;
+
+}
+
+
+
+.scores b {
+
+  font-size: 30px;
+
+  color: #1b7f3a;
+
+}
+
+
+
+.card p {
+
+  font-size: 17px;
+
+  line-height: 1.6;
+
+}
