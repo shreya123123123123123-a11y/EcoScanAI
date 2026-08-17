@@ -1,8 +1,8 @@
-\# 🌱 EcoScanAI
+ 🌱 EcoScanAI
 
 
 
-\## AI-Powered Sustainability Assistant for Smart Consumer Choices
+ AI-Powered Sustainability Assistant for Smart Consumer Choices
 
 
 
@@ -10,7 +10,6 @@ EcoScanAI is an AI-driven application that helps users understand the environmen
 
 
 
-\---
 
 
 
@@ -20,137 +19,87 @@ EcoScanAI is an AI-driven application that helps users understand the environmen
 
 \### 🌍 Environmental Impact Analysis
 
-\- Calculates product Eco Score
+ Calculates product Eco Score
 
-\- Estimates environmental impact
+ Estimates environmental impact
 
-\- Categorizes products based on sustainability
+ Categorizes products based on sustainability
 
 
 
-\### ❤️ Health Impact Analysis
+  Health Impact Analysis
 
-\- Generates Health Score
+ Generates Health Score
 
-\- Provides insights about product quality
+ Provides insights about product quality
 
 
 
-\### 🤖 AI-Powered Explanation
+ AI-Powered Explanation
 
-\- Uses Google Gemini AI to generate simple explanations
+ Uses Google Gemini AI to generate simple explanations
 
-\- Helps users understand sustainability factors
+Helps users understand sustainability factors
 
 
 
-\### 🔄 Sustainable Alternatives
+ 🔄 Sustainable Alternatives
 
-\- Recommends eco-friendly alternatives
+ Recommends eco-friendly alternatives
 
-\- Helps consumers make better purchasing decisions
+ Helps consumers make better purchasing decisions
 
 
 
-\### 🧠 Machine Learning Prediction
+ 🧠 Machine Learning Prediction
 
-\- ML model predicts product sustainability category
+ ML model predicts product sustainability category
 
-\- Data-driven scoring system
+ Data-driven scoring system
 
 
 
-\---
+Frontend
 
+ React.js
 
+ Vite
 
-\# 🏗️ System Architecture
+JavaScript
 
 
 
+ Backend
 
+Python
 
-User
+ FastAPI
 
-&#x20;|
+SQLAlchemy
 
-&#x20;|
 
-React Frontend
 
-&#x20;|
+ AI/ML
 
-&#x20;|
+ Google Gemini API
 
-FastAPI Backend
+ Scikit-learn
 
-&#x20;|
+Joblib
 
-&#x20;|----------------|
 
-&#x20;|                |
 
-ML Model       SQLite Database
+ Database
 
-&#x20;|
+SQLite
 
-&#x20;|
 
-Google Gemini AI
 
 
 
 
 
-\---
 
-
-
-\# 🛠️ Tech Stack
-
-
-
-\## Frontend
-
-\- React.js
-
-\- Vite
-
-\- JavaScript
-
-
-
-\## Backend
-
-\- Python
-
-\- FastAPI
-
-\- SQLAlchemy
-
-
-
-\## AI/ML
-
-\- Google Gemini API
-
-\- Scikit-learn
-
-\- Joblib
-
-
-
-\## Database
-
-\- SQLite
-
-
-
-\---
-
-
-
-\# 📂 Project Structure
 
 
 
