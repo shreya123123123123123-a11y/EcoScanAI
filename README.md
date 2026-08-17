@@ -1,88 +1,156 @@
-\# EcoScanAI 🌱
+\# 🌱 EcoScanAI
 
 
 
-AI-powered sustainability assistant that helps users understand the environmental impact of their purchases.
+\## AI-Powered Sustainability Assistant for Smart Consumer Choices
 
 
 
-\## Features
+EcoScanAI is an AI-driven application that helps users understand the environmental and health impact of their daily purchases. By analyzing product information, it generates sustainability scores, health scores, and recommends greener alternatives.
 
 
 
-\- Product barcode scanning
-
-\- Carbon footprint analysis
-
-\- Eco score prediction
-
-\- Health score calculation
-
-\- Sustainable alternatives recommendation
-
-\- Gemini AI generated explanations
-
-\- ML-based product categorization
+\---
 
 
 
-\## Tech Stack
+\## 🚀 Features
 
 
 
-\### Backend
+\### 🌍 Environmental Impact Analysis
 
-\- FastAPI
+\- Calculates product Eco Score
 
-\- SQLAlchemy
+\- Estimates environmental impact
 
-\- Python
-
-\- Scikit-learn
+\- Categorizes products based on sustainability
 
 
 
-\### Frontend
+\### ❤️ Health Impact Analysis
 
-\- React
+\- Generates Health Score
 
-\- Vite
-
-
-
-\### AI
-
-\- Google Gemini API
-
-\- Machine Learning Model
+\- Provides insights about product quality
 
 
 
-\## Project Architecture
+\### 🤖 AI-Powered Explanation
+
+\- Uses Google Gemini AI to generate simple explanations
+
+\- Helps users understand sustainability factors
+
+
+
+\### 🔄 Sustainable Alternatives
+
+\- Recommends eco-friendly alternatives
+
+\- Helps consumers make better purchasing decisions
+
+
+
+\### 🧠 Machine Learning Prediction
+
+\- ML model predicts product sustainability category
+
+\- Data-driven scoring system
+
+
+
+\---
+
+
+
+\# 🏗️ System Architecture
+
+
 
 
 
 User
 
-&#x20;↓
+&#x20;|
+
+&#x20;|
 
 React Frontend
 
-&#x20;↓
+&#x20;|
+
+&#x20;|
 
 FastAPI Backend
 
-&#x20;↓
+&#x20;|
 
-ML Model + Database + Gemini AI
+&#x20;|----------------|
+
+&#x20;|                |
+
+ML Model       SQLite Database
+
+&#x20;|
+
+&#x20;|
+
+Google Gemini AI
 
 
 
-\## Run Locally
+
+
+\---
 
 
 
-Backend:
+\# 🛠️ Tech Stack
+
+
+
+\## Frontend
+
+\- React.js
+
+\- Vite
+
+\- JavaScript
+
+
+
+\## Backend
+
+\- Python
+
+\- FastAPI
+
+\- SQLAlchemy
+
+
+
+\## AI/ML
+
+\- Google Gemini API
+
+\- Scikit-learn
+
+\- Joblib
+
+
+
+\## Database
+
+\- SQLite
+
+
+
+\---
+
+
+
+\# 📂 Project Structure
 
 
 
