@@ -13,11 +13,11 @@ EcoScanAI is an AI-driven application that helps users understand the environmen
 
 
 
-\## 🚀 Features
+ 🚀 Features
 
 
 
-\### 🌍 Environmental Impact Analysis
+ 🌍 Environmental Impact Analysis
 
  Calculates product Eco Score
 
